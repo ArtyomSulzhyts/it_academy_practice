@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\it_academy_practice\LettersCount\obj\Debug\netcoreapp3.1\LettersCount.csprojAssemblyReference.cache
+C:\Users\User\source\repos\it_academy_practice\LettersCount\obj\Debug\netcoreapp3.1\LettersCount.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\it_academy_practice\LettersCount\obj\Debug\netcoreapp3.1\LettersCount.AssemblyInfo.cs
+C:\Users\User\source\repos\it_academy_practice\LettersCount\obj\Debug\netcoreapp3.1\LettersCount.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\it_academy_practice\LettersCount\bin\Debug\netcoreapp3.1\LettersCount.exe
+C:\Users\User\source\repos\it_academy_practice\LettersCount\bin\Debug\netcoreapp3.1\LettersCount.deps.json
+C:\Users\User\source\repos\it_academy_practice\LettersCount\bin\Debug\netcoreapp3.1\LettersCount.runtimeconfig.json
+C:\Users\User\source\repos\it_academy_practice\LettersCount\bin\Debug\netcoreapp3.1\LettersCount.runtimeconfig.dev.json
+C:\Users\User\source\repos\it_academy_practice\LettersCount\bin\Debug\netcoreapp3.1\LettersCount.dll
+C:\Users\User\source\repos\it_academy_practice\LettersCount\bin\Debug\netcoreapp3.1\LettersCount.pdb
+C:\Users\User\source\repos\it_academy_practice\LettersCount\obj\Debug\netcoreapp3.1\LettersCount.dll
+C:\Users\User\source\repos\it_academy_practice\LettersCount\obj\Debug\netcoreapp3.1\LettersCount.pdb
+C:\Users\User\source\repos\it_academy_practice\LettersCount\obj\Debug\netcoreapp3.1\LettersCount.genruntimeconfig.cache
